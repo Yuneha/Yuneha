@@ -25,7 +25,7 @@ Currently pursuing a 2-year program in programming, where I’ve worked on multi
 ## 🔧 Projects
 
 - **PokeApp**  
-  A Pokédex app featuring the first generation of Pokémon, with an integrated quiz mode.
+  A Pokédex mobile app featuring the first generation of Pokémon, with an integrated quiz mode.
 
 - **Social Network**  
   A basic social networking site/app developed as a project to explore backend and frontend interaction.
